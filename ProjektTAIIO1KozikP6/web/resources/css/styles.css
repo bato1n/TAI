@@ -1,0 +1,25 @@
+.root
+{
+    display:block;
+}
+.errorMessage
+{
+    font-style: italic;
+    color: red;
+}
+.warningMessage
+{
+    font-style: normal;
+    color: green;
+}
+.oddRow
+{
+    height: 25px;
+    text-align: center;
+    background: mediumturquoise;
+}
+.evenRow
+{
+    text-align: center;
+    background: powderblue;
+}
